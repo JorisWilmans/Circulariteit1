@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Circulariteit en Wetgeving (2024-2025)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+
+    header {
+      background-color: #005a8c;
+      color: white;
+      padding: 1rem 0;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: white;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: #005a8c;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    .section p {
+      margin: 0.5rem 0;
+    }
+
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+      margin-top: 2rem;
+    }
+
+    footer a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Circulariteit en Wetgeving (2024-2025)</h1>
+  <p>Overzicht van belangrijke regelgeving voor technisch installateurs</p>
+</header>
+
+<div class="container">
+  <div class="section">
+    <h2>1. Corporate Sustainability Reporting Directive (CSRD)</h2>
+    <p><strong>Beschrijving:</strong> De CSRD stelt nieuwe eisen aan bedrijven om transparanter te rapporteren over milieu-, sociale en governance-prestaties (ESG).</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Integreer circulaire initiatieven in uw bedrijfsrapportages.</li>
+      <li>Bereid uw organisatie voor op gedetailleerde dataregistratie over duurzaamheidsinspanningen.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>2. Critical Raw Materials Act (CRMA)</h2>
+    <p><strong>Beschrijving:</strong> Deze wet is gericht op het veiligstellen van de beschikbaarheid van essentiële grondstoffen, zoals die nodig zijn voor batterijen en elektronica.</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Identificeer producten die afhankelijk zijn van kritieke grondstoffen en ontwikkel alternatieven.</li>
+      <li>Werk samen met leveranciers om risico's op schaarste te minimaliseren.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. Digital Product Passport (DPP)</h2>
+    <p><strong>Beschrijving:</strong> Het DPP introduceert een digitaal paspoort dat inzicht biedt in materiaalgebruik, de herkomst, en de recycleerbaarheid van producten.</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Verzamel data over toegepaste materialen en bereid u voor op registratie- en rapportageverplichtingen.</li>
+      <li>Stem processen af met leveranciers om benodigde informatie efficiënt te verkrijgen.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. Ecodesign for Sustainable Products Regulation (ESPR)</h2>
+    <p><strong>Beschrijving:</strong> Deze nieuwe regelgeving bevordert duurzame productontwerpen en stimuleert hergebruik.</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Analyseer productontwerpen om te voldoen aan toekomstige duurzaamheidsvereisten.</li>
+      <li>Onderzoek duurzame alternatieven voor veelgebruikte onderdelen en materialen.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5. EU Taxonomie</h2>
+    <p><strong>Beschrijving:</strong> De EU Taxonomie is een classificatiesysteem dat definieert welke economische activiteiten als duurzaam worden beschouwd.</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Identificeer welke technische installaties voldoen aan de duurzaamheidscriteria.</li>
+      <li>Stem uw rapportages af op de EU Taxonomie om toegang te krijgen tot groene financiering.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>6. MilieuPrestatie Gebouwen (MPG)</h2>
+    <p><strong>Beschrijving:</strong> De MPG stelt eisen aan de milieubelasting van materiaalgebruik in nieuwe gebouwen, gericht op duurzaamheid.</p>
+    <p><strong>Acties voor installateurs:</strong></p>
+    <ul>
+      <li>Gebruik materialen met een lage milieu-impact en integreer prefab of modulaire oplossingen.</li>
+      <li>Werk samen met opdrachtgevers om materiaalkeuzes af te stemmen op de MPG-normen.</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  <p>Heeft u vragen? <a href="#">Neem contact op</a></p>
+</footer>
+
+</body>
+</html>
